@@ -12,4 +12,4 @@ And thus the solution proposed will be like, we have seen much of vehicles being
 3. We have found that wind mills or solar pannels produce consistent amount of energy but when there is a sudden increase in temperature or increase in wind speed these wind mills and solar pannels produce more energy than required and this excess energy produced gets wasted and hence we can save this energy by storing the excess energy in grid with the help of AI.
 
 These are the solutions proposed which aims at minimizing and replacement of fossil fuels. Given below is the link of detailed presentation about the problem statement and its solution.
-https://www.canva.com/design/DAFFpjAEdBY/sLPwZycVtAUb688OSAnRoA/view?utm_content=DAFFpjAEdBY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+https://www.canva.com/design/DAFFpjAEdBY/zRgP_0WrXvVpjJJ0HpMDgw/view?utm_content=DAFFpjAEdBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
