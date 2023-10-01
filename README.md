@@ -1,5 +1,5 @@
 # Smart-Minimization-and-Replacement-of-Fossil-Fuels.github.io
-This is a website being built for informative purpose and bringing awareness and some possible futuristic solutions inorder to reduce the consumption of fossil fuels and find some alternative reference for it as well. Given below is the link of the website hosted4
+This is a website being built for informative purpose and bringing awareness and some possible futuristic solutions inorder to reduce the consumption of fossil fuels and find some alternative reference for it as well. Given below is the link of the website hosted
 https://vibgyor05.github.io/Smart-Minimization-and-Replacement-of-Fossil-Fuels.github.io/
 
 The solution which is been shown in this website is as follows:
